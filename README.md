@@ -180,6 +180,7 @@ In image, video data, it is aimed to classify abnormal images or to segment abno
 - Unsupervised anomaly segmentation via deep feature reconstruction  | **[Neurocomputing' 20]**| [`[pdf]`](https://www.sciencedirect.com/science/article/pii/S0925231220317951) | [`[code]`](https://github.com/YoungGod/DFR)
 - PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization  | **[ICPR IML Workshop' 20]**| [`[pdf]`](https://arxiv.org/abs/2011.08785) | [`[code]`](https://github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master)
 - Explainable Deep One-Class Classification  | **[ICLR' 21**| [`[pdf]`](https://openreview.net/forum?id=A5VV3UyIQz) | [`[code]`](https://github.com/liznerski/fcdd)
+-  Positive-Sample-Based Surface Defect Detection Using Memory-Augmented Adversarial Autoencoders  | **[IEEE/ASME Transactions on Mechatronics]**| [`[pdf]`](https://ieeexplore.ieee.org/document/9351664/)
 
 ## Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
